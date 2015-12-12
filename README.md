@@ -6,35 +6,35 @@ A Basic Project With Chai Mocha Testing
 
 2.Do Clone Using The Below Command
 
-  $ git clone <git SSH>
+	$git clone <git SSH>
 
 3.Create Directory "chai-mocha-basics"
 
-  $cd chai-mocha-basics
+	$cd chai-mocha-basics
 
 4.View List Of Files In The Directory
 
-  $ls -la
+	$ls -la
 
 5.Open Sublime Editor
 
-  $subl.
+	$subl.
 
 6.Use The Below Command To Create "package.json" File
 
-  $npm init
+	$npm init
 
 7.View List Of Files In The Directory
 
-  $ls -la
+	$ls -la
 
 8.View Created "package.json" file
 
-  $cat package.json
+	$cat package.json
 
 9.Install Mocha Chai Through NPM
 
-  $npm install mocha chai --save
+	$npm install mocha chai --save
 
 
 10.Create a new folder "test" and create "test.js"
@@ -50,13 +50,13 @@ A Basic Project With Chai Mocha Testing
 
 11.Use Below Commands To Run Test
 
-  $mocha
-  $npm test
+	$mocha
+	$npm test
 
 12.Use Below Commands To Push Code To The Repository
 
-  $git status
-  $git add --all
-  $git commit -a -m "Commit Description"
-  $git push
+	$git status
+	$git add --all
+	$git commit -a -m "Commit Description"
+	$git push
 
